@@ -1,5 +1,5 @@
 # Software Requirements Specification
-## For elp.rpcp.local
+## For rudchin.educo
 
 Version 0.1  
 Prepared by Pawan Saroj & Chinmaya Patel  
