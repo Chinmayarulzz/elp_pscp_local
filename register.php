@@ -36,7 +36,7 @@ body {
     width: 90%;
     max-width: 340px;
     margin: 10vh auto;
-    height:40vh;
+    height:42vh;
 }
 
 .user__header {
@@ -248,12 +248,18 @@ body {
     <div class="user">
     
     <form class="form">
+      <div class="form__group">
+            <input type="name" placeholder="Full Name" class="form__input" />
+        </div>
         <div class="form__group">
             <input type="email" placeholder="Email" class="form__input" />
         </div>
         
         <div class="form__group">
             <input type="password" placeholder="Password" class="form__input" />
+        </div>
+        <div class="form__group">
+            <input type="cnfpassword" placeholder="Confirm Password" class="form__input" />
         </div>
         
         <button class="btn" type="button">Sign Up</button>
