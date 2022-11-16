@@ -106,7 +106,7 @@
           <div class="item item-1">
             <div class="img-fill">
                 <div class="text-content">
-                  <h6>lorem ipsum dolor sit amet!</h6>
+                  <h6>Learning is the key of success</h6>
                   <h4>India's Largest Learning Platform</h4>
                   <p>Magni deserunt dolorem consectetur adipisicing elit. Corporis molestiae optio, laudantium odio quod rerum maiores, omnis unde quae illo.</p>
                   <a href="blog.html" class="filled-button">Read More</a>
