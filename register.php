@@ -28,7 +28,7 @@ body {
     background-size: 200% 100% !important;
     animation: move 10s ease infinite;
     transform: translate3d(0, 0, 0);
-    background: linear-gradient(45deg, #49D49D 10%, #A2C7E5 90%);
+    background: linear-gradient(45deg, #000000 10%, #000000 90%);
     height: 100vh
 }
 
@@ -36,6 +36,7 @@ body {
     width: 90%;
     max-width: 340px;
     margin: 10vh auto;
+    height:40vh;
 }
 
 .user__header {
@@ -53,7 +54,7 @@ body {
 }
 
 .form {
-    margin-top: 40px;
+    margin-top: 30vh;
     border-radius: 6px;
     overflow: hidden;
     opacity: 0;
@@ -73,13 +74,22 @@ body {
     padding: 20px;
     font-family: $font-family;
     -webkit-appearance: none;
-    border: 0;
     outline: 0;
     transition: 0.3s;
+    color:#ffffff;
+    background:transparent;
+    text-decoration:underline #000000;
+    border:1px solid #a4c639;
     
     &:focus {
         background: darken(#fff, 3%);
     }
+}
+
+.form__input:focus{
+  border: 2px solid #ffffff;
+  background: #a4b62d;
+  color: #a4c639;
 }
 
 .btn {
@@ -88,15 +98,20 @@ body {
     padding: 20px;
     font-family: $font-family;
     -webkit-appearance: none;
-    outline: 0;
-    border: 0;
-    color: white;
-    background: $color-primary;
+    border: 2px solid #a4c639;
+    color: #a4c639;
+    background: transparent;
     transition: 0.3s;
     
     &:hover {
-        background: darken($color-primary, 5%);
+        background: #a4c639;
+        color: #ffffff;
     }
+}
+
+.btn:hover{
+  background: #a4c639;
+  color: #ffffff;
 }
 
 @keyframes NO {
@@ -231,16 +246,8 @@ body {
 
     <!-- Page Content -->
     <div class="user">
-    <header class="user__header">
-        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/3219/logo.svg" alt="" />
-        <h1 class="user__title">A lightweight and simple sign-up form</h1>
-    </header>
     
     <form class="form">
-        <div class="form__group">
-            <input type="text" placeholder="Username" class="form__input" />
-        </div>
-        
         <div class="form__group">
             <input type="email" placeholder="Email" class="form__input" />
         </div>
@@ -249,7 +256,7 @@ body {
             <input type="password" placeholder="Password" class="form__input" />
         </div>
         
-        <button class="btn" type="button">Register</button>
+        <button class="btn" type="button">Sign Up</button>
     </form>
 </div>
 <script> 
