@@ -67,12 +67,12 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
-              <li class="nav-item active">
+              <li class="nav-item">
                 <a class="nav-link" href="homepage.php">Home
                   <span class="sr-only">(current)</span>
                 </a>
               </li>
-              <li class="nav-item">
+              <li class="nav-item active">
                 <a class="nav-link" href="blog.php">Blog</a>
               </li>
 
@@ -87,10 +87,10 @@
                 <a class="nav-link" href="contact.php">Contact Us</a>
               </li>
 			  <li class="nav-item">
-                <a class="nav-link" href="contact.php">Sign Up</a>
+                <a class="nav-link" href="register.php">Sign Up</a>
               </li>
 			  <li class="nav-item">
-                <a class="nav-link" href="contact.php">Login</a>
+                <a class="nav-link" href="login.php">Login</a>
               </li>
             </ul>
           </div>
