@@ -167,6 +167,20 @@ body {
         background-position: 0 0
     }
 }
+.container ul{
+	display:flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+}
+
+.container ul li{
+	padding: 10px;
+}
+
+.container ul li a div{
+	width: 13vw;
+}
+
 </style>
     </head>
     <body>
