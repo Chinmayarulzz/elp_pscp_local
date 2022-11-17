@@ -195,6 +195,10 @@ body {
 	opacity: 100%;
 }
 
+.container .right-icons li {
+    padding: 0;
+}
+
 </style>
     </head>
     <body>
