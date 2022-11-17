@@ -274,10 +274,10 @@ body {
 			<a class="nav-link" href="contact.php">Contact Us</a>
 		  </li>
 		  <li class="nav-item active">
-			<a class="nav-link" href="register.php">Sign Up</a>
+			<a class="nav-link" href="register.php">USER</a>
 		  </li>
 		  <li class="nav-item">
-			<a class="nav-link" href="login.php">Login</a>
+			<a class="nav-link" href="login.php">Log Out</a>
 		  </li>
 		</ul>
 	  </div>
