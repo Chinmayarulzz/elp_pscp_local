@@ -181,6 +181,11 @@ body {
 	width: 13vw;
 }
 
+.sub-header .container .row{
+	display: flex;
+	margin-left: -9vw;
+}
+
 .da-thumbs li:hover{
 	border: 1px solid #a4c639;
 	border-radius: 10%;
