@@ -385,8 +385,8 @@ body {
 				</ul>
 			</section>
         </div>
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-		<script type="text/javascript" src="bootstrap/js/jquery.hoverdir.js"></script>	
+		<script type="text/javascript" src="bootstrap/jquery/jquery_min.js"></script>
+		<script type="text/javascript" src="bootstrap/js/hoverdir.js"></script>	
 		<script type="text/javascript">
 			$(function() {
 			
