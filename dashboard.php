@@ -181,6 +181,20 @@ body {
 	width: 13vw;
 }
 
+.da-thumbs li:hover{
+	border: 1px solid #a4c639;
+	border-radius: 10%;
+}
+
+.da-thumbs li a{
+	color:#a4c639;
+	opacity: 85%;
+}
+
+.da-thumbs li a:hover{
+	opacity: 100%;
+}
+
 </style>
     </head>
     <body>
@@ -273,6 +287,27 @@ body {
 
 <script src="https://kit.fontawesome.com/b558a0dd02.js" crossorigin="anonymous"></script>
         <div class="container" style="margin:15vh;">
+		<!-- Codrops top bar -->
+		<div class="codrops-top clearfix" style="display:none;">
+                <a href="http://tympanus.net/Tutorials/SlideshowJmpress/">
+                    <strong>&laquo; Previous Demo: </strong>Slideshow with jmpress.js
+                </a>
+                <span class="right">
+                    <a href="http://tympanus.net/codrops/2012/04/09/direction-aware-hover-effect-with-css3-and-jquery/">
+                        <strong>Back to the Codrops Article</strong>
+                    </a>
+                </span>
+            </div><!--/ Codrops top bar -->
+			<header class="clearfix" style="display:none;">
+				<span>Tips &amp; Tricks</span>
+				<h1>Direction-Aware <span>Hover Effect</span></h1>
+				<nav class="codrops-demos">
+					<a href="index.html">Default</a>
+					<a href="index2.html">Delay</a>
+					<a class="current-demo" href="index3.html">Inverse</a>
+				</nav>
+				<p>Here we use the inverse direction.</p>
+			</header>
 			<section>
 				<ul id="da-thumbs" class="da-thumbs">
 					<li>
