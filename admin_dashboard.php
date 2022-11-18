@@ -211,8 +211,17 @@ body {
 	height: 18vh;
 }
 
+.btns{
+	justify-content: space-evenly;
+}
+
 .btns .btn{
 	border: 1px solid #a4c639;
+	margin: 1px;
+	padding: 1px;
+}
+
+.btn-add{
 	margin: 1px;
 	padding: 1px;
 }
@@ -400,13 +409,13 @@ body {
 				<p>Here we use the inverse direction.</p>
 			</header>
 			<section>
+				<button class="btn btn-add">ADD COURSE</button>
 				<ul id="da-thumbs" class="da-thumbs">
 					<li>
 						<a href="http://dribbble.com/shots/505046-Menu">
 							<img src="images/video1.png" />
 							<div><span>Menu by Simon Jensen</span></div>
 							<div class="btns" style="display:flex;">
-								<button class="btn btn-add">ADD</button>
 								<button class="btn btn-edit">EDIT</button>
 								<button class="btn btn-del">DELETE</button>
 							</div>
@@ -417,7 +426,7 @@ body {
 							<img src="images/video2.png" />
 							<div><span>TN Aquarium by Charlie Gann</span></div>
 							<div class="btns" style="display:flex;">
-								<button class="btn btn-add">ADD</button>
+								
 								<button class="btn btn-edit">EDIT</button>
 								<button class="btn btn-del">DELETE</button>
 							</div>
@@ -428,7 +437,7 @@ body {
 							<img src="images/video3.png" />
 							<div><span>Mr. Crabs by John Generalov</span></div>
 							<div class="btns" style="display:flex;">
-								<button class="btn btn-add">ADD</button>
+								
 								<button class="btn btn-edit">EDIT</button>
 								<button class="btn btn-del">DELETE</button>
 							</div>
@@ -439,7 +448,7 @@ body {
 							<img src="images/video4.png" />
 							<div><span>Gallery of Mo 2.Mo logo by Adam Campion</span></div>
 							<div class="btns" style="display:flex;">
-								<button class="btn btn-add">ADD</button>
+								
 								<button class="btn btn-edit">EDIT</button>
 								<button class="btn btn-del">DELETE</button>
 							</div>
@@ -450,7 +459,7 @@ body {
 							<img src="images/video5.png" />
 							<div><span>Ice Cream - nom nom by Eight Hour Day</span></div>
 							<div class="btns" style="display:flex;">
-								<button class="btn btn-add">ADD</button>
+								
 								<button class="btn btn-edit">EDIT</button>
 								<button class="btn btn-del">DELETE</button>
 							</div>
@@ -461,7 +470,7 @@ body {
 							<img src="images/video6.png" />
 							<div><span>My Muse by Zachary Horst</span></div>
 							<div class="btns" style="display:flex;">
-								<button class="btn btn-add">ADD</button>
+								
 								<button class="btn btn-edit">EDIT</button>
 								<button class="btn btn-del">DELETE</button>
 							</div>
@@ -472,7 +481,7 @@ body {
 							<img src="images/video7.png" />
 							<div><span>Natalie & Justin Cleaning by Justin Younger</span></div>
 							<div class="btns" style="display:flex;">
-								<button class="btn btn-add">ADD</button>
+								
 								<button class="btn btn-edit">EDIT</button>
 								<button class="btn btn-del">DELETE</button>
 							</div>
@@ -483,7 +492,7 @@ body {
 							<img src="images/video8.png" />
 							<div><span>App Preview by Ryan Deshler</span></div>
 							<div class="btns" style="display:flex;">
-								<button class="btn btn-add">ADD</button>
+								
 								<button class="btn btn-edit">EDIT</button>
 								<button class="btn btn-del">DELETE</button>
 							</div>
@@ -494,7 +503,7 @@ body {
 							<img src="images/video9.png" />
 							<div><span>Cornwall Map by Katharina Maria Zimmermann</span></div>
 							<div class="btns" style="display:flex;">
-								<button class="btn btn-add">ADD</button>
+								
 								<button class="btn btn-edit">EDIT</button>
 								<button class="btn btn-del">DELETE</button>
 							</div>
@@ -505,7 +514,7 @@ body {
 							<img src="images/video10.png" />
 							<div><span>final AD logo by Annette Diana</span></div>
 							<div class="btns" style="display:flex;">
-								<button class="btn btn-add">ADD</button>
+								
 								<button class="btn btn-edit">EDIT</button>
 								<button class="btn btn-del">DELETE</button>
 							</div>
@@ -516,7 +525,7 @@ body {
 							<img src="images/video11.png" />
 							<div><span>Land Those Planes by Lee Ann Marcel</span></div>
 							<div class="btns" style="display:flex;">
-								<button class="btn btn-add">ADD</button>
+								
 								<button class="btn btn-edit">EDIT</button>
 								<button class="btn btn-del">DELETE</button>
 							</div>
@@ -527,7 +536,7 @@ body {
 							<img src="images/video12.png" />
 							<div><span>Seahorse by Trevor Basset</span></div>
 							<div class="btns" style="display:flex;">
-								<button class="btn btn-add">ADD</button>
+								
 								<button class="btn btn-edit">EDIT</button>
 								<button class="btn btn-del">DELETE</button>
 							</div>
