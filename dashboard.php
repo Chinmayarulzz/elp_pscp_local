@@ -204,6 +204,11 @@ body {
     padding: 0;
 }
 
+.da-thumbs li a img{
+	width: 18vw;
+	height: 18vh;
+}
+
 </style>
     </head>
     <body>
@@ -320,74 +325,74 @@ body {
 			<section>
 				<ul id="da-thumbs" class="da-thumbs">
 					<li>
-						<a href="http://dribbble.com/shots/502927-My-Muse">
-							<img src="images/6.jpg" />
-							<div><span>My Muse by Zachary Horst</span></div>
-						</a>
-					</li>
-					<li>
 						<a href="http://dribbble.com/shots/505046-Menu">
-							<img src="images/1.jpg" />
+							<img src="images/video1.png" />
 							<div><span>Menu by Simon Jensen</span></div>
 						</a>
 					</li>
 					<li>
 						<a href="http://dribbble.com/shots/504336-TN-Aquarium">
-							<img src="images/2.jpg" />
+							<img src="images/video2.png" />
 							<div><span>TN Aquarium by Charlie Gann</span></div>
 						</a>
 					</li>
 					<li>
 						<a href="http://dribbble.com/shots/504197-Mr-Crabs">
-							<img src="images/3.jpg" />
+							<img src="images/video3.png" />
 							<div><span>Mr. Crabs by John Generalov</span></div>
 						</a>
 					</li>
 					<li>
 						<a href="http://dribbble.com/shots/503731-Gallery-of-Mo-2-Mo-logo">
-							<img src="images/4.jpg" />
+							<img src="images/video4.png" />
 							<div><span>Gallery of Mo 2.Mo logo by Adam Campion</span></div>
 						</a>
 					</li>
 					<li>	
 						<a href="http://dribbble.com/shots/503058-Ice-Cream-nom-nom">
-							<img src="images/5.jpg" />
+							<img src="images/video5.png" />
 							<div><span>Ice Cream - nom nom by Eight Hour Day</span></div>
 						</a>
 					</li>
 					<li>
+						<a href="http://dribbble.com/shots/502927-My-Muse">
+							<img src="images/video6.png" />
+							<div><span>My Muse by Zachary Horst</span></div>
+						</a>
+					</li>
+					<li>
 						<a href="http://dribbble.com/shots/502538-Natalie-Justin-Cleaning">
-							<img src="images/7.jpg" />
+							<img src="images/video7.png" />
 							<div><span>Natalie & Justin Cleaning by Justin Younger</span></div>
 						</a>
 					</li>
 					<li>
 						<a href="http://dribbble.com/shots/502523-App-Preview">
-							<img src="images/8.jpg" />
+							<img src="images/video8.png" />
 							<div><span>App Preview by Ryan Deshler</span></div>
 						</a>
 					</li>
 					<li>
 						<a href="http://dribbble.com/shots/501695-Cornwall-Map">
-							<img src="images/9.jpg" />
+							<img src="images/video9.png" />
 							<div><span>Cornwall Map by Katharina Maria Zimmermann</span></div>
 						</a>
 					</li>
 					<li>
 						<a href="http://dribbble.com/shots/500861-final-AD-logo">
-							<img src="images/10.jpg" />
+							<img src="images/video10.png" />
 							<div><span>final AD logo by Annette Diana</span></div>
 						</a>
 					</li>
 					<li>
 						<a href="http://dribbble.com/shots/500369-Land-Those-Planes">
-							<img src="images/11.jpg" />
+							<img src="images/video11.png" />
 							<div><span>Land Those Planes by Lee Ann Marcel</span></div>
 						</a>
 					</li>
 					<li>
 						<a href="http://dribbble.com/shots/497795-Seahorse">
-							<img src="images/12.jpg" />
+							<img src="images/video12.png" />
 							<div><span>Seahorse by Trevor Basset</span></div>
 						</a>
 					</li>
