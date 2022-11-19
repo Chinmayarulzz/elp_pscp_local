@@ -108,7 +108,10 @@
                 <div class="text-content">
                   <h6>Learning is the key of success</h6>
                   <h4>India's Largest Learning Platform</h4>
-                  <p>Magni deserunt dolorem consectetur adipisicing elit. Corporis molestiae optio, laudantium odio quod rerum maiores, omnis unde quae illo.</p>
+                  <p>“The goal of mankind is knowledge . . . What man "learns" is really what he
+discovers by taking the cover off his own soul, which is a mine of infinite
+knowledge.”     ..... Swami Vivekanand
+</p>
                   <a href="blog.html" class="filled-button">Read More</a>
                 </div>
             </div>
@@ -118,9 +121,11 @@
           <div class="item item-2">
             <div class="img-fill">
                 <div class="text-content">
-                  <h6>magni deserunt dolorem harum quas!</h6>
-                  <h4>Aliquam iusto harum <br>  ratione porro odio</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At culpa cupiditate mollitia adipisci assumenda laborum eius quae quo excepturi, eveniet. Dicta nulla ea beatae consequuntur?</p>
+                  <h6>Learning never exhausts the mind.</h6>
+                  <h4>India's Largest Learning Platform</h4>
+                  <p>If you have knowledge and see a man weak, do not condemn him. Go to
+his level and help him if you can. He must grow.
+</p>
                   <a href="about.html" class="filled-button">About Us</a>
                 </div>
             </div>
@@ -130,9 +135,9 @@
           <div class="item item-3">
             <div class="img-fill">
                 <div class="text-content">
-                  <h6>alias officia qui quae vitae natus!</h6>
-                  <h4>Lorem ipsum dolor <br>sit amet, consectetur.</h4>
-                  <p>Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate mi. Sed nec cursus augue. Phasellus lacinia ac sapien vitae dapibus. Mauris ut dapibus velit cras interdum nisl ac urna tempor mollis.</p>
+                  <h6>Leadership and learning are indispensable to each other.</h6>
+                  <h4>India's Largest Learning Platform</h4>
+                  <p>Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.</p>
                   <a href="contact.html" class="filled-button">Contact Us</a>
                 </div>
             </div>
@@ -147,9 +152,9 @@
         <div class="row" id="tabs">
           <div class="col-md-4">
             <ul>
-              <li><a href='#tabs-1'>Lorem ipsum dolor sit amet, consectetur adipisicing <br> <small>John Doe &nbsp;|&nbsp; 27.07.2020 10:10</small></a></li>
-              <li><a href='#tabs-2'>Mauris lobortis quam id dictum dignissim <br> <small>John Doe &nbsp;|&nbsp; 27.07.2020 10:10</small></a></li>
-              <li><a href='#tabs-3'>Class aptent taciti sociosqu ad litora torquent per <br> <small>John Doe &nbsp;|&nbsp; 27.07.2020 10:10</small></a></li>
+              <li><a href='#tabs-1'>Java Courses added by<br><small> Sir Chinmaya Patel (30 years of industry experience)<br>&nbsp;|&nbsp; 19.11.2022 10:10</small></a></li>
+              <li><a href='#tabs-2'>Data Science Courses added by<br> <small>Rudr Pawan Saroj (10 years of industry experience)<br>&nbsp;|&nbsp; 20.11.2020 10:15</small></a></li>
+              <li><a href='#tabs-3'>Php Courses added by<br> <small>Sir Sreekanth (35 years of industry experience)&nbsp;|&nbsp; 22.11.2022 16:25</small></a></li>
             </ul>
 
             <br>
@@ -165,8 +170,8 @@
             <section class='tabs-content'>
               <article id='tabs-1'>
                 <img src="images/blog-image-1-940x460.jpg" alt="">
-                <h4><a href="blog-details.html">Lorem ipsum dolor sit amet, consectetur adipisicing.</a></h4>
-                <p>Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante, quis posuere nibh vestibulum sit amet.</p>
+                <h4><a href="blog-details.html">Silicon Valley layoffs aren’t just a cost-cutting measure. They’re a culture reset.</a></h4>
+                <p>Meta CEO Mark Zuckerberg cut 11,000 employees, or 13 percent of Facebook. Amazon has confirmed plans to slash as many as 10,000 corporate and tech jobs. Lyft. Robinhood. Stripe. Netflix. Coinbase. </p>
               </article>
               <article id='tabs-2'>
                 <img src="images/blog-image-2-940x460.jpg" alt="">
