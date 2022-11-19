@@ -290,8 +290,8 @@ body {
 	  </button>
 	  <div class="collapse navbar-collapse" id="navbarResponsive">
 		<ul class="navbar-nav ml-auto">
-		  <li class="nav-item">
-			<a class="nav-link" href="homepage.php">Home
+		<li class="nav-item active">
+			<a class="nav-link" href="dashboard.php">Home
 			  <span class="sr-only">(current)</span>
 			</a>
 		  </li>
@@ -309,8 +309,8 @@ body {
 		  <li class="nav-item">
 			<a class="nav-link" href="contact.php">Contact Us</a>
 		  </li>
-		  <li class="nav-item active">
-			<a class="nav-link" href="dashboard.php">USER</a>
+		  <li class="nav-item">
+			<a class="nav-link" href="edit_profile.php">USER</a>
 		  </li>
 		  <li class="nav-item">
 			<a class="nav-link" href="homepage.php">Log Out</a>
@@ -324,7 +324,7 @@ body {
 
 	<section class="ftco-section">
 		<div class="container">
-			<div class="row justify-content-center">
+			<div class="row justify-content-center" style="visibility:hidden;">
 				<div class="col-md-6 text-center mb-5">
 					<h2 class="heading-section">Employee Table</h2>
 				</div>

@@ -231,31 +231,31 @@ body {
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
-              <li class="nav-item">
-                <a class="nav-link" href="homepage.php">Home
-                  <span class="sr-only">(current)</span>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="blog.php">Blog</a>
-              </li>
+            <li class="nav-item">
+			<a class="nav-link active" href="dashboard.php">Home
+			  <span class="sr-only">(current)</span>
+			</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link" href="blog.php">Blog</a>
+		  </li>
 
-              <li class="nav-item">
-                <a class="nav-link" href="about.php">About Us</a>
-              </li>
+		  <li class="nav-item">
+			<a class="nav-link" href="about.php">About Us</a>
+		  </li>
 
-              <li class="nav-item">
-                <a class="nav-link" href="team.php">Authors</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="contact.php">Contact Us</a>
-              </li>
-			  <li class="nav-item active">
-                <a class="nav-link" href="admin_dashboard.php">USER</a>
-              </li>
-			  <li class="nav-item">
-                <a class="nav-link" href="homepage.php">Log Out</a>
-              </li>
+		  <li class="nav-item">
+			<a class="nav-link" href="team.php">Authors</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link" href="contact.php">Contact Us</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link" href="edit_profile.php">USER</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link" href="homepage.php">Log Out</a>
+		  </li>
             </ul>
           </div>
         </div>
