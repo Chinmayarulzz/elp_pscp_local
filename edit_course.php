@@ -273,7 +273,6 @@ body {
                 <th>Link</th>
                 <th>Details</th>
                 <th>Thumbnail</th>
-                <th></th>
             </tr>
             <tr>
             <td>
@@ -301,12 +300,9 @@ body {
                 <input type="text" placeholder="Thumbnail" class="form__input" />
                 </div>
             </td>
-            <td>
-                <button class="btn btn-add-row">Add 1 row</button>
-            </td>
             </tr>
         </table>
-        <button class="btn" type="button">Add Course(s)</button>
+        <button class="btn" type="button">Save Course</button>
     </form>
 </div>
 <script> 
